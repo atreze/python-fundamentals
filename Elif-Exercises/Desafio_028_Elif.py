@@ -1,4 +1,4 @@
-#Leia um número inteiro e peça pra escolher uma opção entre 1 e 3. Mostre na tela
+##Leia um número inteiro e peça pra escolher uma opção entre 1 e 3. Mostre na tela
 #base de conversão. 1 - binário, 2 - octal, 3- decimal
 
 numero = int(input('Digite um número inteiro: '))
