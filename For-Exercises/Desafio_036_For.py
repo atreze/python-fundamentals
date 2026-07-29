@@ -1,4 +1,4 @@
-#Calcular a soma entre todos os números ímpares que são múltiplos de 3 em um intervalo
+##Calcular a soma entre todos os números ímpares que são múltiplos de 3 em um intervalo
 #de 0 a 500
 
 s = 0
